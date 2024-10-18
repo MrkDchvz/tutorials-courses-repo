@@ -1,0 +1,20 @@
+==== Keypoints of this lesson ====
++ Typescript is a structural type system. Meaning, as long the object's properties has the same structure (property name and types)  with another object they are compatible.
+========================================================================
+interface Ball {
+    diameter : number
+}
+
+interface Tube {
+    diameter : number
+}
+
+let ball : Ball = {diameter : 10};
+let tube : Tube = {diameter : "20"};
+
+ball = tube // Ball's diameter will be the same as tube which is 20
+========================================================================
+
+
+Resources:
++ Sahotra, S. K. (2023, September 16). A comprehensive guide to callback functions in TypeScript. Medium. https://medium.com/@shahroze007/a-comprehensive-guide-to-callback-functions-in-typescript-976d87c397de

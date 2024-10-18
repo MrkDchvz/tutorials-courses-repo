@@ -1,0 +1,20 @@
+=== Keypoints of the lesson ===
++ ts-node 
+    - is an exeuction engine for node (node can't run typescript by default).
+    
++ Just-In-Time Compilation (JIT) 
+    - compilation of code on run time/exeuction. Instead of compiling it first then executing the code.
+
++ Read-Eval-Print Loop (REPL) 
+    -  Interactive programming environment that allows programming directly on the terminal.
+
++ Typescript does type checks on compile time and not on runtime.
+
++ npx tsc <file name> 
+    - compile ts file to javascript file
+
++ Optional Chaining Operator(?) 
+    - is used to return undefined when an object/property doesn't exists instead of throwing an error
+
++ REST parameter (...) 
+   - if used in function params it allows to dynamically create n times parameters without specifying each one of them
