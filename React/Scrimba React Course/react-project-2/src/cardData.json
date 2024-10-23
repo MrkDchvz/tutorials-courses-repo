@@ -1,0 +1,47 @@
+ [
+    {
+        "status": "Sold",
+        "imgLink": "/katie.png",
+        "ratings": 1,
+        "location": "USA",
+        "reviewCount": 10,
+        "description": "Random Description",
+        "pricing": 100
+    },
+    {
+        "status": "Available",
+        "imgLink": "/katie.png",
+        "ratings": 5,
+        "location": "Canada",
+        "reviewCount": 15,
+        "description": "This is another item for sale.",
+        "pricing": 200
+    },
+    {
+        "status": "Pending",
+        "imgLink": "/katie.png",
+        "ratings": 3,
+        "location": "UK",
+        "reviewCount": 5,
+        "description": "Pending transaction.",
+        "pricing": 150
+    },
+    {
+        "status": "Sold",
+        "imgLink": "/katie.png",
+        "ratings": 4,
+        "location": "Germany",
+        "reviewCount": 8,
+        "description": "Limited edition item.",
+        "pricing": 250
+    },
+    {
+        "status": "Available",
+        "imgLink": "/katie.png",
+        "ratings": 2,
+        "location": "Australia",
+        "reviewCount": 12,
+        "description": "Newly listed item.",
+        "pricing": 180
+    }
+]

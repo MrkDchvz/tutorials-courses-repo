@@ -1,0 +1,25 @@
+.main {
+    margin-bottom: 3rem;
+}
+.hero {
+    padding-top: 2rem;
+}
+.hero__img {
+    max-width: 100%;
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.header {
+    margin-top: 2rem;
+}
+
+.header__title {
+    font-size: 4.5rem;
+}
+
+.header__sub-title {
+    font-size: 2rem;
+    max-width: 50%;
+}

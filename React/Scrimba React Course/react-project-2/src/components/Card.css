@@ -1,0 +1,33 @@
+.card {
+    font-weight: 300;
+    position: relative;
+    width: 240px;
+}
+
+.card__stats__review-count,
+.card__stats__location {
+    color: #798b99;
+}
+
+.card__image {
+    border-radius: 10px;
+    max-width: 100%;
+    
+}
+
+.card__stats__star {
+    width: 17px;
+}
+
+.strong {
+    font-weight: 500;
+}
+
+.card__availability {
+    position: absolute;
+    top: 2%;
+    left: 10px;
+    border-radius: 3px;
+    background-color: white;
+    padding: .1rem .4rem;
+}

@@ -1,0 +1,18 @@
+:root {
+    --clr-main-bg: #262d33;
+}
+
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background-color: var(--clr-main-bg);
+    overflow: hidden;
+}

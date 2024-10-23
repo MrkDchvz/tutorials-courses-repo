@@ -1,0 +1,33 @@
+.main {
+    margin-top: 4rem;
+    margin-inline: 5rem;
+    color: white;
+}
+
+.main-list {
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+}
+
+.main-list__items::marker {
+    font-size: 2rem;
+    color:  #5cd8f7;
+}
+
+
+
+
+.main-list__items {
+    margin-top: .5rem;
+    font-size: 1.2rem;
+}
+
+
+
+.logo-bg {
+    display: block;
+    position: absolute;
+    width: 500px;
+    right: -10%;
+    top: 20%;
+}

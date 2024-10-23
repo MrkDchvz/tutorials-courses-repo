@@ -1,0 +1,27 @@
+:root {
+    --clr-nav-bg: #1f2229;
+    --clr-nav-title: #5cd8f7;
+}
+.nav {
+    display: flex;
+    background-color: var(--clr-nav-bg);
+    padding: 1.8rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-logo {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+
+}
+
+.logo-title {
+    color: var(--clr-nav-title);
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.nav-info {
+    color: white;
+}
